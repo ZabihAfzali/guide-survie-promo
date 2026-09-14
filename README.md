@@ -1,3 +1,9 @@
+louisa
+## La règle d'or du café
+
+- Vérifier qu'il y a suffisamment d'eau avant d'utiliser la machine
+- Nettoyer la machine après utilisation et ne pas laisser de marc de café
+
  anthony
 Le restaurant Officiel
 La Brasserie Lono
@@ -11,5 +17,4 @@ Pour une playlist de **promo TSSR**, je proposerais ces 3 titres :
 
 **Mon choix pour représenter toute la promo : *The Nights — Avicii*.**
 
-
- main
+main
