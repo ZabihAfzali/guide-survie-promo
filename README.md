@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+ zabi
+c'est mon duxieme fois que j'ai modifie
 Saalamwaleikum
-=======
 rahul
 Hello My name is rahul chakma
 louisa
@@ -23,4 +23,3 @@ Pour une playlist de **promo TSSR**, je proposerais ces 3 titres :
 **Mon choix pour représenter toute la promo : *The Nights — Avicii*.**
 
 main
->>>>>>> 1046151dd20846a7137ec45a9756e60a5b7e152e
